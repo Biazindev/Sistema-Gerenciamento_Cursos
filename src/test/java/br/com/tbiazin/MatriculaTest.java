@@ -19,10 +19,7 @@ import br.com.tbiazin.dao.MatriculaDao;
 import br.com.tbiazin.domain.Curso;
 import br.com.tbiazin.domain.Matricula;
 
-/**
- * @author rodrigo.pires
- *
- */
+
 public class MatriculaTest {
 	
 	private IMatriculaDao matriculaDao;

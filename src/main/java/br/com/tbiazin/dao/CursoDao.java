@@ -15,10 +15,7 @@ import javax.persistence.criteria.Root;
 
 import br.com.tbiazin.domain.Curso;
 
-/**
- * @author rodrigo.pires
- *
- */
+
 public class CursoDao implements ICursoDao {
 
 	@Override

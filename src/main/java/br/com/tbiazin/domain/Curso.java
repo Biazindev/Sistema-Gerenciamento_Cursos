@@ -15,10 +15,6 @@ import javax.persistence.OneToMany;
 import javax.persistence.SequenceGenerator;
 import javax.persistence.Table;
 
-/**
- * @author rodrigo.pires
- *
- */
 @Entity
 @Table(name = "TB_CURSO")
 public class Curso {

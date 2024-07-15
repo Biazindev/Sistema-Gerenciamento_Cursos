@@ -7,10 +7,7 @@ import java.util.List;
 
 import br.com.tbiazin.domain.Curso;
 
-/**
- * @author rodrigo.pires
- *
- */
+
 public interface ICursoDao {
 
 	public Curso cadastrar(Curso curso);

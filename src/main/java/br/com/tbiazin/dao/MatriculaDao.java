@@ -20,10 +20,6 @@ import org.hibernate.Criteria;
 import br.com.tbiazin.domain.Curso;
 import br.com.tbiazin.domain.Matricula;
 
-/**
- * @author rodrigo.pires
- *
- */
 public class MatriculaDao implements IMatriculaDao {
 
 	@Override
