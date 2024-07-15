@@ -1,4 +1,4 @@
-Sistema de Gestão de Cursos e Matrículas
+Sistema de Gestão de Cursos e Matrículas <br>
 Bem-vindo ao Sistema de Gestão de Cursos e Matrículas! Este projeto é uma aplicação Java utilizando JPA (Java Persistence API) para gerenciar cursos e matrículas de estudantes. O sistema permite o cadastro de cursos, matrículas de estudantes em cursos, e a busca e exclusão dessas informações no banco de dados.
 
 Índice
